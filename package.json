@@ -1,5 +1,5 @@
 {
-  "name": "@pixelunion/jquery-trend",
+  "name": "jquery-trend",
   "title": "jQuery Trend",
   "description": "jQuery plugin for fail-safe transition-end events.",
   "version": "1.0.0",
